@@ -1,6 +1,7 @@
 # Weather-App
 
 A simple weather application that displays current weather conditions for a given location.
+It is created using CSS, HTML, JavaScript and using weather APIs.
 
 Features:
 
